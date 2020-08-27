@@ -1,2 +1,2 @@
 # demo-dw-traditional
-Traditional Kimball star-schema data warehouse
+Traditional Kimball star-schema dimensional model

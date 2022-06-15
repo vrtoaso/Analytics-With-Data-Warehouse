@@ -1,0 +1,18 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Department]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Rename
+       [dbo].[Department].[DeptID] (Column)
+       [dbo].[Employee].[EmployeeID] (Column)
+     Table rebuild
+       [dbo].[Department] (Table)
+
+** Supporting actions

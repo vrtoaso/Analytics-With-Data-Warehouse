@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Workforce">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=birdserv.database.windows.net;Initial Catalog=Workforce</ConnectString>
+    <Prompt>Specify a user name and password for data source Workforce:</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>e22a951b-962a-467a-a290-83cc889cafd8</DataSourceID>
+</RptDataSource>

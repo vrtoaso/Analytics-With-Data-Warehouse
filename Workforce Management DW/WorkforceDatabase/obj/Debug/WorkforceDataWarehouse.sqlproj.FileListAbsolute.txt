@@ -1,0 +1,6 @@
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\bin\Debug\WorkforceDataWarehouse.dacpac
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\bin\Debug\EmployeeDatabase.dll
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\WorkforceDataWarehouse.sqlprojAssemblyReference.cache
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\EmployeeDatabase.dll
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb

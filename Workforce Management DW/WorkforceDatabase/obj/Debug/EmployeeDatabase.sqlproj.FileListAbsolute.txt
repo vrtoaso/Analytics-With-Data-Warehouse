@@ -1,0 +1,10 @@
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\bin\Debug\EmployeeDatabase.dacpac
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\bin\Debug\EmployeeDatabase.dll
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\EmployeeDatabase.sqlprojAssemblyReference.cache
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\EmployeeDatabase.dll
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\Model.xml
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\refactor.xml
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\postdeploy.sql
+C:\Users\vtoas\source\repos\SampleEmpoyee\EmployeeDatabase\obj\Debug\predeploy.sql

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="birdserv.database.windows.net.vrtoa"
+  DTS:DTSID="{FCC87CBD-73A2-4CB5-A9C9-C107F429E7CC}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=birdserv.database.windows.net;User ID=vrtoa;Initial Catalog=Workforce;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0ZIFHjZvhEyfAZQzmF4INgAAAAACAAAAAAAQZgAAAAEAACAAAAAz9St6gQanVYamKhdiJZ/LEYlcVrf3HfOyyyLtj+ZOBQAAAAAOgAAAAAIAACAAAAAnJ6RrpIvbRRz08/PO4jsNHgwXn6NHOP9NXu53pNqV0IAAAADajiY9BkNpI/akHVa3TxNuOnbsjtOGfXhIDrNy57ahKgFFSsD7rGE39I2iuj1x8/r8ZttpcExU9wgpPXrT4Tb0A4DrEXKsvlamqOSQBtMshezliDcuKShylVhpR8fbiRdfAkhxsqoGOdQuqizf/Yzw7Y1l8cw0/tgHO8/UkV0wnUAAAAD0zD30wxGbi5RXlbAyXj4M7yiG+Eak/Z4n812smtrTBbPNu+PPZZAaOHwmLq0orFAgNqI5WA2mdaOSDDIyEvZ4</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
